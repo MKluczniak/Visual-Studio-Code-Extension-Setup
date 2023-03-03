@@ -1,1 +1,1 @@
-# Visual-Studio-Code-Extension-Setup
+# Visual-Studio-Code-Extensions-Setup
